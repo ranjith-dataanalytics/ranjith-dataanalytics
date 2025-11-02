@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Ranjithkumar Ganesan  
 
-<!--
-**ranjith-dataanalytics/ranjith-dataanalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Senior Data Analyst | Excel | Power BI | SQL | Python  
 
-Here are some ideas to get you started:
+I’m passionate about transforming messy data into meaningful business insights using advanced Excel, Power BI, and automation tools.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 What I Do  
+- Data Cleaning & Preparation (Excel, SQL, Python)  
+- Dashboard Development (Power BI, Excel)  
+- KPI & Reporting Automation  
+- Business Insights & Data Visualization  
+
+### 🧠 Current Focus  
+Helping small and medium businesses make smarter decisions using data.  
+
+### 📈 Featured Projects  
+- Sales Performance Dashboard (Excel + VBA + Power Query)  
+- Customer Segmentation Analysis (Excel + Power BI)  
+- Data Cleaning Automation (Python + Excel)
+
+### 🔗 Connect With Me  
+- 🌍 [Upwork Profile](https://www.upwork.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ranjithkumar-ganesan-432660381)  
+- 📊 [My Data Projects Repository](https://github.com/ranjith-dataanalytics?tab=repositories)  
+- 📍 Coimbatore, India  
